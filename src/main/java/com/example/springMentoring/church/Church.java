@@ -22,6 +22,6 @@ public class Church {
 
     private String address;
 
-    private String imageUrl;
+    private String imageUrl22;
 }
 
